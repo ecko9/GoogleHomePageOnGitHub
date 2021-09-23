@@ -1,3 +1,2 @@
-Ceci est mon tout premier repo GitHub, waow !\n
-Lien vers la page Google:\n
-https://ecko9.github.io/GoogleHomePageOnGitHub/
+Ceci est mon tout premier repo GitHub, waow !<br/>
+Lien vers la page Google: https://ecko9.github.io/GoogleHomePageOnGitHub/
